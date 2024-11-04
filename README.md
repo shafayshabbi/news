@@ -1,1 +1,2 @@
-# news
+The Goal of this webpage is to build a page where you can find news that challenge your existing biases and believes in order for everyone to break out of their news bubble and in the end to foster understanding of opposing political views. Currently taking the free API service from here <a href="https://newscatcherapi.com/"> https://newscatcherapi.com/</a>. 
+Mostly creating the webpage for educational purpose and use the API to pull data and play with it.
